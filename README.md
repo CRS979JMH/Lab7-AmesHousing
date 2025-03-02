@@ -10,7 +10,7 @@ This repository contains a Streamlit web application that predicts housing price
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ames-housing-predictor.git
+   git clone https://github.com/CRS979JMH/ames-housing-predictor.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -23,15 +23,15 @@ This repository contains a Streamlit web application that predicts housing price
 
 ## Running the App
 ```bash
-streamlit run your_script.py
+streamlit run AmedHousing Code.py
 ```
 
 ## Deployment
 The app is deployed using Streamlit Cloud. You can access it at:
-[Deployed App Link](https://share.streamlit.io/yourusername/ames-housing-predictor)
+[Deployed App Link](https://share.streamlit.io/CRS979JMH/ames-housing-predictor)
 
 ## Files
-- `your_script.py` - Main script for the Streamlit app
+- `AmedHousing Code.py` - Main script for the Streamlit app
 - `AmesHousing.xlsx` - Dataset used for training and prediction
 - `requirements.txt` - List of required dependencies
 
